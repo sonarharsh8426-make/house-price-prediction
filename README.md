@@ -1,5 +1,5 @@
 
-# House Price Prediction 🏠
+# House Price Prediction 
 
 A Machine Learning project built using Python and Streamlit.
 
